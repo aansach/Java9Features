@@ -1,0 +1,1 @@
+﻿# Private Methods in Interface
